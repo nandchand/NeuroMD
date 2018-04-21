@@ -1,0 +1,2 @@
+# NeuroMD
+Automating Neurological diagnoses 
